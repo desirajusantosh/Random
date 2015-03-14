@@ -25,6 +25,11 @@ int missing_element(int arr[], int size){
 }
 
 int main(){
+  int arr[] = {6,7,8,4,9};
+  int size = sixeof(arr)/sizeof(arr[0]);
+  int missing = missing_element(arr, size);
+  printf("missing = %-3d\n", missing);
+  return 0;
   
 }
   
