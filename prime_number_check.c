@@ -1,3 +1,5 @@
+#incldude<stdio.h>
+
 void PrimeNumber () {
   int num;
   printf (“Enter a number: “);
