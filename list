@@ -1,12 +1,19 @@
+
+state diagram for SRAM controller 
 FSM design - traffic light controller   
-coding of a interchangeable sequence detector.   (case stmt)
+coding of a interchangeable sequence detector.   (case stmt) hw
+fixed pattern in a sequence
 binary search tress, traversals
+Calculate ave sum in tree 
 hash table
 reverse function c string reverse
 quick sort time complexity
 stacks
 vectors
-program to find out the endianess of a machine/leap/palindrome
+swap c++ 
+pass by value or reference
+call by reference ,pass by reference..
+endianess of a machine/leap/palindrome
 How to detect a loop in a linked list?
 factorial of a number
 find 2 repeated number in an array
