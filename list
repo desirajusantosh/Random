@@ -13,9 +13,10 @@ vectors
 pass by value or reference
 call by reference ,pass by reference..
 endianess of a machine/leap/palindrome
-How to detect a loop in a linked list?
+How to detect a loop in a linked list
 factorial of a number
 find 2 repeated number in an array
 count number of 1’s in binary format of a given number
 inverse a string
 determine whether a given string is a palindrome.
+
