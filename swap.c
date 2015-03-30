@@ -1,4 +1,5 @@
 /*
+swap two nos with out using third variable
 swapping two variable
 a = a^b
 b = b^a
