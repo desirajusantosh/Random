@@ -1,3 +1,14 @@
+/*
+swapping two variable
+a = a^b
+b = b^a
+a = a^b
+
+a = a+b
+b = a-b
+a = a-b
+*/
+
 #include<stdio.h>
 
 void swap(int *x, int *y){
