@@ -9,6 +9,13 @@ int main(){
   unsigned int i;
   unsigned int found_one;
   
+  while(count < max){
+    found_one = 1;
+    for(i = 0; i < current; i++){
+      
+    }
+  }
+  
   
 
 }
