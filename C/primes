@@ -12,10 +12,17 @@ int main(){
   while(count < max){
     found_one = 1;
     for(i = 0; i < current; i++){
-      
+      if((current % i) == 0)
+        found_one = 0;
+        break;
     }
   }
   
+  if(found){
+    found[count++] = current; 
+  }
   
-
+  current++;
+  }
+  
 }
