@@ -1,5 +1,14 @@
 int main(){
+  const unsigned int max = 100;
   
-
+  unsigned int found[max];
+  unsigned int count = 0;
+  
+  unsigned int current = 2;
+  
+  unsigned int i;
+  unsigned int found_one;
+  
+  
 
 }
