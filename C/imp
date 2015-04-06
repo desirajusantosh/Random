@@ -1,0 +1,5 @@
+C 
+Buffer overflow
+Character strings in C = arrays of chars
+No array bounds checking in C
+Attacker's goal: overflow array in a controlled fashion.
