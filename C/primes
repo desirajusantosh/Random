@@ -25,4 +25,8 @@ int main(){
   current++;
   }
   
+  for(i = 0; i < max; i++){
+    printf("%d\n", found[i]);
+  }
+  return 0;
 }
